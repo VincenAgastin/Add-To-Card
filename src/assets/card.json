@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "amt": 8.99,
+    "ftype": "Vegetarian",
+    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1j96PcBeCX3HZlF9BMRBFrhE5994SRqYqmQ&s"
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti Carbonara",
+    "amt": 12.99,
+    "ftype": "Non-Vegetarian",
+    "pic": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-square640-v2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "amt": 7.99,
+    "ftype": "Vegetarian",
+    "pic": "https://assets.bonappetit.com/photos/624215f8a76f02a99b29518f/1:1/w_2800,h_2800,c_limit/0328-ceasar-salad-lede.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Burger",
+    "amt": 9.99,
+    "ftype": "Non-Vegetarian",
+    "pic": "https://foodhub.scene7.com/is/image/woolworthsltdprod/fi-2401-spicy-chicken-burgers:Square-1300x1300"
+  },
+  {
+    "id": 5,
+    "name": "Vegetable Stir Fry",
+    "amt": 10.99,
+    "ftype": "Vegan",
+    "pic": "https://images.themodernproper.com/billowy-turkey/production/posts/VegetableStirFry_9.jpg?w=1200&h=1200&q=60&fm=jpg&fit=crop&dm=1703377301&s=3484d660c4b404c6d23b0c3ec7ac66eb"
+  },
+  {
+    "id": 6,
+    "name": "Beef Tacos",
+    "amt": 11.99,
+    "ftype": "Non-Vegetarian",
+    "pic": "https://joyfoodsunshine.com/wp-content/uploads/2022/04/mexian-ground-beef-tacos-recipe-9.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Paneer Butter Masala",
+    "amt": 13.99,
+    "ftype": "Vegetarian",
+    "pic": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sushi Platter",
+    "amt": 19.99,
+    "ftype": "Non-Vegetarian",
+    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpEGa52lElsycyoV-ziL8-L9dK4kdZ_JyOwQ&s"
+  },
+  {
+    "id": 9,
+    "name": "Falafel Wrap",
+    "amt": 8.49,
+    "ftype": "Vegan",
+    "pic": "https://cookingwithayeh.com/wp-content/uploads/2024/03/Falafel-Wrap-SQ-1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Lamb Gyro",
+    "amt": 12.49,
+    "ftype": "Non-Vegetarian",
+    "pic": "https://saltandbaker.com/wp-content/uploads/2021/04/Lamb-Gyros-7.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Quinoa Salad",
+    "amt": 9.99,
+    "ftype": "Vegan",
+    "pic": "https://cookieandkate.com/images/2017/08/best-quinoa-salad-recipe-3.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Shrimp Pad Thai",
+    "amt": 14.99,
+    "ftype": "Non-Vegetarian",
+    "pic": "https://www.onceuponachef.com/images/2016/03/pad-thai-1200x1483.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Eggplant Parmesan",
+    "amt": 11.99,
+    "ftype": "Vegetarian",
+    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNBPbiwCs39-wt2nbfa9HnTdBHAlw9ILcLTw&s"
+  },
+  {
+    "id": 14,
+    "name": "Beef Burrito",
+    "amt": 10.99,
+    "ftype": "Non-Vegetarian",
+    "pic": "https://www.oliviascuisine.com/wp-content/uploads/2021/07/beef-burritos-2.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Chickpea Curry",
+    "amt": 9.49,
+    "ftype": "Vegan",
+    "pic": "https://rainbowplantlife.com/wp-content/uploads/2023/02/chickpea-curry-cover-photo-1-of-1.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Chicken Caesar Wrap",
+    "amt": 10.49,
+    "ftype": "Non-Vegetarian",
+    "pic": "https://littlespicejar.com/wp-content/uploads/2022/02/Crunchy-Caesar-Chicken-Wraps-1-735x1103.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Vegetable Sushi",
+    "amt": 13.49,
+    "ftype": "Vegetarian",
+    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwG8x3ldhKYyRsyd_2qtPBAS9PRQJKzpj9xw&s"
+  },
+  {
+    "id": 18,
+    "name": "BBQ Ribs",
+    "amt": 18.99,
+    "ftype": "Non-Vegetarian",
+    "pic": "https://www.fromvalerieskitchen.com/wordpress/wp-content/uploads/2023/04/oven-baked-baby-back-ribs-17.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Stuffed Peppers",
+    "amt": 11.49,
+    "ftype": "Vegan",
+    "pic": "https://www.themediterraneandish.com/wp-content/uploads/2024/01/Chicken-Stuffed-Peppers-2.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Fish and Chips",
+    "amt": 13.99,
+    "ftype": "Non-Vegetarian",
+    "pic": "https://grandbaby-cakes.com/wp-content/uploads/2023/04/fish-and-chips-recipe.jpg"
+  }
+]

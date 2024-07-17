@@ -1,0 +1,52 @@
+.product{
+    width: 250px;
+    height: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.product .img{
+    width: 100%;
+    height: 170px;
+}
+
+.product .img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.details{
+    padding: 5px;
+
+}
+
+.details h3{
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+.details p{
+    font-weight: 500;
+    color: #888;
+    font-size: bold;
+}
+
+.details button{
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: rgb(9, 220, 9);
+    color: white;
+}
+
+.details button:hover{
+    background-color: rgb(5, 152, 5);
+}
+
+.btn-remove{
+    background-color: #cf3d3d !important;
+}
+
